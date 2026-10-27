@@ -88,4 +88,4 @@ automatiquement enregistrées dans `outputs/`.
 
 ## Auteur
 
-Dr Kebe — travaux postdoctoraux sur les risques urbains à Dakar.
+E.A. Karim KEBE — travaux postdoctoraux sur les risques urbains à Dakar.
