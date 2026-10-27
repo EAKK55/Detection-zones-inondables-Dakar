@@ -1,0 +1,17 @@
+# Données raster volumineuses (non versionnées, voir README.md)
+data/*.tif
+data/*.tiff
+
+# Vidéo de présentation (fichier volumineux, livré séparément)
+video/*.mp4
+video/*.aiff
+video/*.wav
+
+# Fichiers système / éditeurs
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
