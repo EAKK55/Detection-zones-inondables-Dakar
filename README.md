@@ -1,5 +1,7 @@
 # Analyse spatiale du risque d'inondation — Dakar
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+
 Travaux de recherche postdoctoraux : cartographie du risque d'inondation sur
 l'agglomération de Dakar à partir d'un Modèle Numérique de Terrain (MNT) et
 de bandes spectrales Sentinel-2 (NDWI), avec alignement spatial des couches
